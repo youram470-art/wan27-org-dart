@@ -1,0 +1,10 @@
+name: wan27_org
+description: Integration package for https://wan27.org.
+version: 0.1.0
+homepage: https://wan27.org
+repository: https://github.com/youram470-art/wan27-org-dart
+documentation: https://wan27.org/docs
+issue_tracker: https://github.com/youram470-art/wan27-org-dart/issues
+
+environment:
+  sdk: ^3.4.0
